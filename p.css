@@ -18,3 +18,11 @@
     width: 25%;
     height: 30%;
 }
+
+#message {
+    display: flex;
+    font-size: larger;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
